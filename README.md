@@ -1,3 +1,3 @@
-# viridistest
+# Viridis Exercise
 
 # Hello World
